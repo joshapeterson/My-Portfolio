@@ -7,10 +7,10 @@
 - [Shiny Application Project](https://github.com/joshapeterson/My-Portfolio/tree/main/shiny-application-project)
 - [Text Analysis and Mining Example](https://github.com/joshapeterson/My-Portfolio/tree/main/text-mining-and-analysis-example)
 
-## Image Classification Project
+### Image Classification Project
 
-## COVID-19 Misinformation Detection Project
+### COVID-19 Misinformation Detection Project
 
-## Shiny Application Project
+### Shiny Application Project
 
-## Text Analysis and Mining Example
+### Text Analysis and Mining Example
