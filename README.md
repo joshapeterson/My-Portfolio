@@ -46,11 +46,12 @@ shiny, shinydashboard, tidytext, wordcloud, ggplot2 (Developer Version), RColorB
 
 ### [Project Code]()
 
-### Link to Shiny App
+### Additional Resources
+#### Link to Shiny App
 
 https://japeterson.shinyapps.io/dsba5122-final-project/
 
-### Link to Final Report
+#### Link to Final Report
 
 https://dsba5122-final-project-group13.netlify.com/
 
