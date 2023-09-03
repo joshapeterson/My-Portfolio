@@ -48,7 +48,7 @@ This is the repository for our group's final project in DSBA 5122. For this proj
 
 shiny, shinydashboard, tidytext, wordcloud, ggplot2 (Developer Version), RColorBrewer, tidyverse, validate, hrbrthemes, waiter and DT
 
-### [Project Code]()
+### [Project Code](https://github.com/joshapeterson/My-Portfolio/blob/main/shiny-application-project/app.R)
 
 ### Additional Resources
 
