@@ -72,7 +72,7 @@ Joshua Peterson
 
 ### List of Packages
 
-pandas, numpy, re, nltk, collections, itertools, sklearn, matplotlib, seaborn, wordcloud, textblob
+pandas, numpy, re, nltk, collections, itertools, sklearn, matplotlib, seaborn, wordcloud and textblob
 
 ### [Project Code](https://github.com/joshapeterson/My-Portfolio/blob/main/text-mining-and-analysis-example/text-analysis-and-mining-example_code.ipynb)
 
