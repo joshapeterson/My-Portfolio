@@ -18,7 +18,7 @@ We conducted a image classification project with the goal of detecting lung x-ra
 * Joshua Peterson
 
 ## Tools
-
+Numpy, Pandas, Tenserflow, Keras, Matplotlib, Seaborn, Imquality, and more
 
 ### [COVID-19 Misinformation Detection Project](https://github.com/joshapeterson/My-Portfolio/tree/main/misinformation-detection-project)
 
