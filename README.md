@@ -22,9 +22,13 @@ Numpy, Pandas, Tenserflow, Keras, Matplotlib, Seaborn, Imquality and more
 
 ### [Project Code](https://github.com/joshapeterson/My-Portfolio/blob/main/image-classification-project/image-classification-project_code.ipynb)
 
+*[Back to Table of Contents](#table-of-contents)*
+
 ## [COVID-19 Misinformation Detection Project](https://github.com/joshapeterson/My-Portfolio/tree/main/misinformation-detection-project)
 
 Mauris sagittis sagittis elementum. In facilisis eget metus non accumsan. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce rhoncus mi id justo tempus commodo. Suspendisse posuere ante lectus, nec pulvinar urna maximus nec. Fusce mi lacus, tempor id ex eget, maximus tristique magna. Vestibulum finibus mattis pellentesque. Curabitur posuere fringilla ligula sed blandit. Pellentesque fermentum luctus eros a volutpat. Phasellus nec libero nec metus tincidunt elementum non nec turpis. Maecenas arcu quam, consectetur in finibus eu, porttitor in nunc. Mauris commodo velit eu lorem semper vehicula. Donec sed lacus vitae enim semper blandit.
+
+*[Back to Table of Contents](#table-of-contents)*
 
 ## [Shiny Application Project](https://github.com/joshapeterson/My-Portfolio/tree/main/shiny-application-project)
 
@@ -52,7 +56,12 @@ shiny, shinydashboard, tidytext, wordcloud, ggplot2 (Developer Version), RColorB
 
 #### Link to Final Report: https://dsba5122-final-project-group13.netlify.com/
 
+*[Back to Table of Contents](#table-of-contents)*
+
 ## [Text Analysis and Mining Example](https://github.com/joshapeterson/My-Portfolio/tree/main/text-mining-and-analysis-example)
 
 Vestibulum consequat, urna eget tristique vulputate, mauris nibh efficitur augue, non iaculis elit erat blandit sapien. Suspendisse non purus quis nisi luctus blandit eget sagittis est. Sed eu magna risus. Donec rhoncus aliquet mi, vel vulputate nisi aliquam quis. Suspendisse potenti. Integer pretium consectetur eros, id egestas odio scelerisque sed. Vestibulum vel magna non eros tincidunt ultricies. Praesent at faucibus neque. Sed sit amet enim in tortor viverra venenatis.
+
+*[Back to Table of Contents](#table-of-contents)*
+
 
