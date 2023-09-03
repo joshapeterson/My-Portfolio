@@ -13,9 +13,9 @@ We conducted a image classification project with the goal of detecting lung x-ra
 
 ### Authors
 
+* Joshua Peterson
 * Michael Gray
 * Mangala Desai
-* Joshua Peterson
 
 ### Tools
 Numpy, Pandas, Tenserflow, Keras, Matplotlib, Seaborn, Imquality, and more
