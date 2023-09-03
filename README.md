@@ -19,7 +19,8 @@ We conducted a image classification project with the goal of detecting lung x-ra
 * Michael Gray
 * Mangala Desai
 
-### List of Packages
+### List of Primary Packages Used
+
 numpy, pandas, tenserflow, keras, matplotlib, seaborn, imquality and more
 
 ### [Project Code](https://github.com/joshapeterson/My-Portfolio/blob/main/image-classification-project/image-classification-project_code.ipynb)
@@ -50,7 +51,7 @@ This is the repository for our group's final project in DSBA 5122. For this proj
 * Dipin Kasana
 * Kelly O'Shields
 
-### List of Packages
+### List of Primary Packages Used
 
 shiny, shinydashboard, tidytext, wordcloud, ggplot2 (Developer Version), RColorBrewer, tidyverse, validate, hrbrthemes, waiter and DT
 
@@ -78,7 +79,7 @@ To identify the characteristics of COVID-19 related tweets either labeled as "in
 
 Joshua Peterson
 
-### List of Packages
+### List of Primary Packages Used
 
 pandas, numpy, re, nltk, collections, itertools, sklearn, matplotlib, seaborn, wordcloud and textblob
 
