@@ -9,7 +9,13 @@
 
 ### [Image Classification Project](https://github.com/joshapeterson/My-Portfolio/tree/main/image-classification-project)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ullamcorper sollicitudin mauris nec cursus. Sed nec sapien ac arcu ullamcorper sollicitudin et pretium odio. Quisque purus est, tincidunt eu lectus non, vulputate pharetra turpis. Sed massa sem, venenatis eu fermentum ut, facilisis sed odio. Maecenas et sem vel neque ultricies pretium ut vel nulla. Pellentesque orci risus, ullamcorper et venenatis eget, ultricies quis leo. Donec vestibulum sollicitudin erat, a convallis enim accumsan non. Nam nec elementum metus. Fusce pharetra porttitor odio, sit amet ullamcorper est ullamcorper et. Donec tincidunt diam nisl. Donec id risus posuere, auctor tortor id, lobortis odio. Morbi consequat purus ligula, id tincidunt erat imperdiet in. Suspendisse non metus rhoncus, rutrum sapien nec, dapibus metus. Donec sodales justo quis lacinia efficitur.
+We conducted a image classification project with the goal of detecting lung x-rays of patients with COVID-19. The code for the project can be found in the "dsba-6165_project-code.ipynb" file. 
+
+## Authors
+
+* Michael Gray
+* Mangala Desai
+* Josh Peterson
 
 ### [COVID-19 Misinformation Detection Project](https://github.com/joshapeterson/My-Portfolio/tree/main/misinformation-detection-project)
 
