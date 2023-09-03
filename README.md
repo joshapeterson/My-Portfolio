@@ -17,7 +17,7 @@ We conducted a image classification project with the goal of detecting lung x-ra
 * Michael Gray
 * Mangala Desai
 
-### Tools
+### List of Packages
 Numpy, Pandas, Tenserflow, Keras, Matplotlib, Seaborn, Imquality, and more
 
 ### [Project Code](https://github.com/joshapeterson/My-Portfolio/blob/main/image-classification-project/image-classification-project_code.ipynb)
