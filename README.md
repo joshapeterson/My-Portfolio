@@ -21,7 +21,7 @@ We conducted a image classification project with the goal of detecting lung x-ra
 
 ### List of Primary Packages Used
 
-numpy, pandas, tenserflow, keras, matplotlib, seaborn, imquality and more
+numpy, pandas, tenserflow, keras, matplotlib, seaborn and imquality
 
 ### [Project Code](https://github.com/joshapeterson/My-Portfolio/blob/main/image-classification-project/image-classification-project_code.ipynb)
 
