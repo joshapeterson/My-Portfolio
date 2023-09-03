@@ -11,14 +11,18 @@
 
 We conducted a image classification project with the goal of detecting lung x-rays of patients with COVID-19. The code for the project can be found in the "dsba-6165_project-code.ipynb" file. 
 
-## Authors
+#### Authors
 
 * Michael Gray
 * Mangala Desai
 * Joshua Peterson
 
-## Tools
+#### Tools
 Numpy, Pandas, Tenserflow, Keras, Matplotlib, Seaborn, Imquality, and more
+
+#### [Project Code](https://github.com/joshapeterson/My-Portfolio/blob/main/image-classification-project/image-classification-project_code.ipynb)
+
+
 
 ### [COVID-19 Misinformation Detection Project](https://github.com/joshapeterson/My-Portfolio/tree/main/misinformation-detection-project)
 
