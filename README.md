@@ -48,13 +48,9 @@ shiny, shinydashboard, tidytext, wordcloud, ggplot2 (Developer Version), RColorB
 
 ### Additional Resources
 
-#### Link to Shiny App
+#### Link to Shiny App: https://japeterson.shinyapps.io/dsba5122-final-project/
 
-https://japeterson.shinyapps.io/dsba5122-final-project/
-
-#### Link to Final Report
-
-https://dsba5122-final-project-group13.netlify.com/
+#### Link to Final Report: https://dsba5122-final-project-group13.netlify.com/
 
 ## [Text Analysis and Mining Example](https://github.com/joshapeterson/My-Portfolio/tree/main/text-mining-and-analysis-example)
 
