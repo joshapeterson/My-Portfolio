@@ -9,6 +9,8 @@
 
 ## [Image Classification Project](https://github.com/joshapeterson/My-Portfolio/tree/main/image-classification-project)
 
+### Overview
+
 We conducted a image classification project with the goal of detecting lung x-rays of patients with COVID-19. The code for the project can be found in the "dsba-6165_project-code.ipynb" file. 
 
 ### Authors
@@ -26,11 +28,15 @@ numpy, pandas, tenserflow, keras, matplotlib, seaborn, imquality and more
 
 ## [COVID-19 Misinformation Detection Project](https://github.com/joshapeterson/My-Portfolio/tree/main/misinformation-detection-project)
 
+### Overview
+
 Mauris sagittis sagittis elementum. In facilisis eget metus non accumsan. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce rhoncus mi id justo tempus commodo. Suspendisse posuere ante lectus, nec pulvinar urna maximus nec. Fusce mi lacus, tempor id ex eget, maximus tristique magna. Vestibulum finibus mattis pellentesque. Curabitur posuere fringilla ligula sed blandit. Pellentesque fermentum luctus eros a volutpat. Phasellus nec libero nec metus tincidunt elementum non nec turpis. Maecenas arcu quam, consectetur in finibus eu, porttitor in nunc. Mauris commodo velit eu lorem semper vehicula. Donec sed lacus vitae enim semper blandit.
 
 *[Back to Table of Contents](#table-of-contents)*
 
 ## [Shiny Application Project](https://github.com/joshapeterson/My-Portfolio/tree/main/shiny-application-project)
+
+### Overview
 
 ### Goal of Project
 
@@ -59,6 +65,8 @@ shiny, shinydashboard, tidytext, wordcloud, ggplot2 (Developer Version), RColorB
 *[Back to Table of Contents](#table-of-contents)*
 
 ## [Text Analysis and Mining Example](https://github.com/joshapeterson/My-Portfolio/tree/main/text-mining-and-analysis-example)
+
+### Overview
 
 Contained in this repo is the text mining and analysis example used during a talk that was given to the Advanced Business Analytics class at UNC Charlotte. The code can be found [here](https://github.com/joshapeterson/My-Portfolio/blob/main/text-mining-and-analysis-example/text-analysis-and-mining-example_code.ipynb).
 
