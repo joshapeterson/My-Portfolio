@@ -18,7 +18,7 @@ We conducted a image classification project with the goal of detecting lung x-ra
 * Mangala Desai
 
 ### List of Packages
-Numpy, Pandas, Tenserflow, Keras, Matplotlib, Seaborn, Imquality, and more
+Numpy, Pandas, Tenserflow, Keras, Matplotlib, Seaborn, Imquality and more
 
 ### [Project Code](https://github.com/joshapeterson/My-Portfolio/blob/main/image-classification-project/image-classification-project_code.ipynb)
 
@@ -42,17 +42,7 @@ This is the repository for our group's final project in DSBA 5122. For this proj
 
 ### List of Packages
 
-* shiny
-* shinydashboard
-* tidytext
-* wordcloud
-* ggplot2 (Developer Version)
-* RColorBrewer
-* tidyverse
-* validate
-* hrbrthemes
-* waiter
-* DT
+shiny, shinydashboard, tidytext, wordcloud, ggplot2 (Developer Version), RColorBrewer, tidyverse, validate, hrbrthemes, waiter and DT
 
 ### [Project Code]()
 
