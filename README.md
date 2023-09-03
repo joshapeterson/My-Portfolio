@@ -18,7 +18,7 @@ We conducted a image classification project with the goal of detecting lung x-ra
 * Mangala Desai
 
 ### List of Packages
-Numpy, Pandas, Tenserflow, Keras, Matplotlib, Seaborn, Imquality and more
+numpy, pandas, tenserflow, keras, matplotlib, seaborn, imquality and more
 
 ### [Project Code](https://github.com/joshapeterson/My-Portfolio/blob/main/image-classification-project/image-classification-project_code.ipynb)
 
@@ -60,7 +60,21 @@ shiny, shinydashboard, tidytext, wordcloud, ggplot2 (Developer Version), RColorB
 
 ## [Text Analysis and Mining Example](https://github.com/joshapeterson/My-Portfolio/tree/main/text-mining-and-analysis-example)
 
-Vestibulum consequat, urna eget tristique vulputate, mauris nibh efficitur augue, non iaculis elit erat blandit sapien. Suspendisse non purus quis nisi luctus blandit eget sagittis est. Sed eu magna risus. Donec rhoncus aliquet mi, vel vulputate nisi aliquam quis. Suspendisse potenti. Integer pretium consectetur eros, id egestas odio scelerisque sed. Vestibulum vel magna non eros tincidunt ultricies. Praesent at faucibus neque. Sed sit amet enim in tortor viverra venenatis.
+Contained in this repo is the text mining and analysis example used during a talk that was given to the Advanced Business Analytics class at UNC Charlotte. The code can be found [here](https://github.com/joshapeterson/My-Portfolio/blob/main/text-mining-and-analysis-example/text-analysis-and-mining-example_code.ipynb).
+
+## Goal of Project
+
+To identify the characteristics of COVID-19 related tweets either labeled as "informational" or "misinformation" thorugh using text mining and analysis techniques.
+
+### Authors
+
+Joshua Peterson
+
+### List of Packages
+
+pandas, numpy, re, nltk, collections, itertools, sklearn, matplotlib, seaborn, wordcloud, textblob
+
+### [Project Code](https://github.com/joshapeterson/My-Portfolio/blob/main/text-mining-and-analysis-example/text-analysis-and-mining-example_code.ipynb)
 
 *[Back to Table of Contents](#table-of-contents)*
 
