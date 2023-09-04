@@ -9,6 +9,8 @@
 - [Undergraduate Student Outcomes Dashboard](#undergraduate-student-outcomes-dashboard)
 - [MBA Class Profile Dashboard](#mba-class-profile-dashboard)
 
+---
+
 ## [Image Classification Project](https://github.com/joshapeterson/My-Portfolio/tree/main/image-classification-project)
 
 ### Overview
