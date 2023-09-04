@@ -15,7 +15,7 @@
 
 ### Overview
 
-==Goals of Project==
+**Goals of Project**
 
 ### Authors
 
