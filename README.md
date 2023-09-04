@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Image Classification Project](#image-classification-project)
+- [Deep Learning Method for Detecting COVID-19 using Chest X-rays](#deep-learning-method-for-detecting-covid-19-using-chest-x-rays)
 - [COVID-19 Misinformation Detection Project](#covid-19-misinformation-detection-project)
 - [Shiny Application Project](#shiny-application-project)
 - [Text Analysis and Mining Example](#text-analysis-and-mining-example)
@@ -11,7 +11,7 @@
 
 ---
 
-## [Image Classification Project](https://github.com/joshapeterson/My-Portfolio/tree/main/image-classification-project)
+## [Deep Learning Method for Detecting COVID-19 using Chest X-rays](https://github.com/joshapeterson/My-Portfolio/tree/main/image-classification-project)
 
 ### Overview
 
