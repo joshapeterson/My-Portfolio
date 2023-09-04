@@ -32,7 +32,7 @@ To provide a general overview of previous Nobel Prize winners. Creating a tool t
 
 ### Link to Shiny App
 
-https://japeterson.shinyapps.io/dsba5122-final-project/
+https://japeterson.shinyapps.io/updated-app/
 
 ### Link to Final Report
 
