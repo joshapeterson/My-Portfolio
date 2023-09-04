@@ -31,6 +31,8 @@ numpy, pandas, tenserflow, keras, matplotlib, seaborn and imquality
 
 *[Back to Table of Contents](#table-of-contents)*
 
+---
+
 ## [COVID-19 Misinformation Detection Project](https://github.com/joshapeterson/My-Portfolio/tree/main/misinformation-detection-project)
 
 ### Overview
@@ -38,6 +40,8 @@ numpy, pandas, tenserflow, keras, matplotlib, seaborn and imquality
 Mauris sagittis sagittis elementum. In facilisis eget metus non accumsan. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce rhoncus mi id justo tempus commodo. Suspendisse posuere ante lectus, nec pulvinar urna maximus nec. Fusce mi lacus, tempor id ex eget, maximus tristique magna. Vestibulum finibus mattis pellentesque. Curabitur posuere fringilla ligula sed blandit. Pellentesque fermentum luctus eros a volutpat. Phasellus nec libero nec metus tincidunt elementum non nec turpis. Maecenas arcu quam, consectetur in finibus eu, porttitor in nunc. Mauris commodo velit eu lorem semper vehicula. Donec sed lacus vitae enim semper blandit.
 
 *[Back to Table of Contents](#table-of-contents)*
+
+---
 
 ## [Shiny Application Project](https://github.com/joshapeterson/My-Portfolio/tree/main/shiny-application-project)
 
@@ -69,6 +73,8 @@ shiny, shinydashboard, tidytext, wordcloud, ggplot2 (Developer Version), RColorB
 
 *[Back to Table of Contents](#table-of-contents)*
 
+---
+
 ## [Text Analysis and Mining Example](https://github.com/joshapeterson/My-Portfolio/tree/main/text-mining-and-analysis-example)
 
 ### Overview
@@ -87,6 +93,8 @@ pandas, numpy, re, nltk, collections, itertools, sklearn, matplotlib, seaborn, w
 
 *[Back to Table of Contents](#table-of-contents)*
 
+---
+
 ## Undergraduate Student Outcomes Dashboard
 
 This is a dashboard that was created for the Belk College of Business to display outcomes data from undergraduate level graduates of the college. This dashboard was created using data from UNC Charlotte’s [First Destination Survey](https://firstdestination.charlotte.edu/).
@@ -94,6 +102,8 @@ This is a dashboard that was created for the Belk College of Business to display
 ### 🔗 [Link to Dashboard](https://belkcollege.charlotte.edu/about-us/facts-and-rankings/undergraduate-student-outcomes/undergraduate-student-outcomes-2022)
 
 *[Back to Table of Contents](#table-of-contents)*
+
+---
 
 ## MBA Class Profile Dashboard
 
