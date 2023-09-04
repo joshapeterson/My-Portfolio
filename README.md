@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Detecting COVID-19 using Chest X-rays Project](#detecting-covid-19-using-chest-x-rays-project)
-- [COVID-19 Misinformation Detection Project](#covid-19-misinformation-detection-project)
+- [Detecting COVID-19 Misinformation on Social Media Project](#detecting-covid-19-misinformation-on-social-media-project)
 - [Shiny Application Project](#shiny-application-project)
 - [Text Analysis and Mining Example](#text-analysis-and-mining-example)
 - [Undergraduate Student Outcomes Dashboard](#undergraduate-student-outcomes-dashboard)
@@ -35,7 +35,7 @@ numpy, pandas, tenserflow, keras, matplotlib, seaborn and imquality
 
 ---
 
-## [COVID-19 Misinformation Detection Project](https://github.com/joshapeterson/My-Portfolio/tree/main/misinformation-detection-project)
+## [Detecting COVID-19 Misinformation on Social Media Project](https://github.com/joshapeterson/My-Portfolio/tree/main/misinformation-detection-project)
 
 ### Overview
 
