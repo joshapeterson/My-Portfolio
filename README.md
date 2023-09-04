@@ -1,6 +1,6 @@
 # My Portfolio
 
-## 📜 Table of Contents
+## Table of Contents
 
 - [Image Classification Project](#image-classification-project)
 - [COVID-19 Misinformation Detection Project](#covid-19-misinformation-detection-project)
