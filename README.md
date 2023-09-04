@@ -15,7 +15,7 @@
 
 ### Overview
 
-<u>Goals of Project</u>
+> Goals of Project
 
 ### Authors
 
