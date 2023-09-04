@@ -15,7 +15,9 @@
 
 ### Overview
 
-**Goals of Project**
+**Goal of Project**
+
+Develop a deep learning model to accurately detect COVID-19 using chest x-ray images. 
 
 ### Authors
 
