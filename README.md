@@ -15,7 +15,7 @@
 
 ### Overview
 
-We conducted a image classification project with the goal of detecting lung x-rays of patients with COVID-19. The code for the project can be found in the "dsba-6165_project-code.ipynb" file. 
+<u>Goals of Project</u>
 
 ### Authors
 
