@@ -6,6 +6,7 @@
 - [COVID-19 Misinformation Detection Project](#covid-19-misinformation-detection-project)
 - [Shiny Application Project](#shiny-application-project)
 - [Text Analysis and Mining Example](#text-analysis-and-mining-example)
+- [Undergraduate Student Outcomes Dashboard](#undergraduate-student-outcomes-dashboard)
 
 ## [Image Classification Project](https://github.com/joshapeterson/My-Portfolio/tree/main/image-classification-project)
 
@@ -83,4 +84,11 @@ pandas, numpy, re, nltk, collections, itertools, sklearn, matplotlib, seaborn, w
 
 *[Back to Table of Contents](#table-of-contents)*
 
+## Undergraduate Student Outcomes Dashboard
+
+This is a dashboard that was created for the Belk College of Business to display outcomes data from undergraduate level graduates of the college. This dashboard was created using data from UNC Charlotte’s [First Destination Survey](https://firstdestination.charlotte.edu/).
+
+🔗 [Link to Dashboard](https://belkcollege.charlotte.edu/about-us/facts-and-rankings/undergraduate-student-outcomes/undergraduate-student-outcomes-2022)
+
+*[Back to Table of Contents](#table-of-contents)*
 
