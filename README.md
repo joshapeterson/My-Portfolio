@@ -81,7 +81,7 @@ shiny, shinydashboard, tidytext, wordcloud, ggplot2 (Developer Version), RColorB
 
 ### Overview
 
-Contained in this repo is the text mining and analysis example used during a talk that was given to the Advanced Business Analytics class at UNC Charlotte. The code can be found [here](https://github.com/joshapeterson/My-Portfolio/blob/main/text-mining-and-analysis-example/text-analysis-and-mining-example_code.ipynb).
+I was invited to give a talk to the M.S. in Data Science and Business Analytics program's Advanced Business Analytics class to discuss text mining and analysis methodologies. During the talk, an example of how to apply various text mining and analysis methodologies to Twitter data was provided. The code can be found [here](https://github.com/joshapeterson/My-Portfolio/blob/main/text-mining-and-analysis-example/text-analysis-and-mining-example_code.ipynb).
 
 ### Authors
 
