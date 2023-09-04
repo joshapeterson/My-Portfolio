@@ -93,7 +93,7 @@ This is a dashboard that was created for the Belk College of Business to display
 
 *[Back to Table of Contents](#table-of-contents)*
 
-## Undergraduate Student Outcomes Dashboard
+## MBA Class Profile Dashboard
 
 This is a student profile built for UNC Charlotte’s MBA program to provide admissions info to the public concerning the program’s Fall entering classes.
 
