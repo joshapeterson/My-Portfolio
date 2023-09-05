@@ -27,7 +27,7 @@ The masks were then applied to each of the chest x-ray images via a bitwise and 
 
 Additionally, image quality of the chest x-rays was assesed via BRISQUE scores.
 
-![](image-classification-project/images/hist-of-brisque-scores.png)
+![](image-classification-project/images/hist.png)
 
 Images with a high BRISQUE score were removed from the dataset so the poor quality of the images did not affect the performance of the deep learning image classification model. 
 
