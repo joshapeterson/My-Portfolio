@@ -55,13 +55,15 @@ First, a general overview of Nobel Prize winners as well as the journals and org
 
 ![](shiny-application-project/images/shiny-app_overview.png)
 
-Next, an analysis of previous award motivations and paper titles was provided to understand the drivers of previous Nobel Prize awards. 
+Next, an analysis of previous award motivations and titles of winning papers was provided to understand the drivers of previous Nobel Prize awards. 
 
 ![](shiny-application-project/images/shiny-app_motivation-and-paper-title.png)
 
 Finally, additional information about Nobel Prize winners was analyized such the number of publications they had, average years of academic experience, and age. 
 
 ![](shiny-application-project/images/shiny-app-publication.png)
+
+All of this information can help us better understand previous Nobel Prize award winners.
 
 ### Authors
 
