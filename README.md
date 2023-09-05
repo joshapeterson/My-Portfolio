@@ -89,7 +89,7 @@ history = model.fit(train_images,
                     callbacks=callbacks)
 ```
 
-This model acheived an accuracy of ==86%==. The following is a classification report from the model:
+This model acheived an accuracy of 86%. The following is a classification report from the model:
 
 ![](image-classification-project/images/classification-matrix.png)
 
