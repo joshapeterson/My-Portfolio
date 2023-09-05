@@ -29,6 +29,14 @@ Additionally, image quality of the chest x-rays was assesed via BRISQUE scores. 
 
 ![](image-classification-project/images/hist-of-brisque-scores.png)
 
+Images with a high BRISQUE score were removed from the dataset so the poor quality of the images did not affect the performance of the deep learning image classification model. 
+
+Multiple deep learning architectures for this image classification task were tested. In the end, our best performing model used the ResNet50 architecture to classify the x-ray images. 
+
+```
+class_model_base = keras.applications.ResNet50(weights="imagenet", include_top=False)
+```
+
 ### Data Source
 
 V7 Labs. Available from: https://darwin.v7labs.com/v7-labs/covid-19-chest-x-ray-dataset/overview
