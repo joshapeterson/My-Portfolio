@@ -117,7 +117,21 @@ numpy, pandas, tenserflow, keras, matplotlib, seaborn and imquality
 
 ### Overview
 
-Mauris sagittis sagittis elementum. In facilisis eget metus non accumsan. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce rhoncus mi id justo tempus commodo. Suspendisse posuere ante lectus, nec pulvinar urna maximus nec. Fusce mi lacus, tempor id ex eget, maximus tristique magna. Vestibulum finibus mattis pellentesque. Curabitur posuere fringilla ligula sed blandit. Pellentesque fermentum luctus eros a volutpat. Phasellus nec libero nec metus tincidunt elementum non nec turpis. Maecenas arcu quam, consectetur in finibus eu, porttitor in nunc. Mauris commodo velit eu lorem semper vehicula. Donec sed lacus vitae enim semper blandit.
+### Data Source
+
+V7 Labs. Available from: https://darwin.v7labs.com/v7-labs/covid-19-chest-x-ray-dataset/overview
+
+### Authors
+
+* Joshua Peterson
+* Michael Gray
+* Mangala Desai
+
+### List of Primary Packages Used
+
+numpy, pandas, tenserflow, keras, matplotlib, seaborn and imquality
+
+### 🔗 [Link to Project Code](https://github.com/joshapeterson/My-Portfolio/blob/main/misinformation-detection-project/misinformation-detection-project_code.ipynb)
 
 *[Back to Table of Contents](#table-of-contents)*
 
@@ -178,6 +192,10 @@ All of this information can help us better understand previous Nobel Prize award
 * Joshua Peterson
 * Dipin Kasana
 * Kelly O'Shields
+
+### Data Source
+
+Kaggle. Available from: https://www.kaggle.com/datasets/nobelfoundation/nobel-laureates
 
 ### List of Primary Packages Used
 
