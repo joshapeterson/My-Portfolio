@@ -37,6 +37,19 @@ Multiple deep learning architectures for this image classification task were tes
 class_model_base = keras.applications.ResNet50(weights="imagenet", include_top=False)
 ```
 
+The ResNet50 architecture was fine-tuned for our image classification task. This was accomplished by making the weights in the last 32 layers of the pretrained model trainable. 
+
+```
+class_model_base.trainable = True
+
+for layer in class_model_base.layers[:-32]: # making the last 32 layers of the ResNet50 model trainable
+  layer.trainable = False
+
+print("The number of trainable weights in the pretrained model:", len(class_model_base.trainable_weights))
+```
+
+The number of trainable weights in the pretrained model: 40 
+
 ### Data Source
 
 V7 Labs. Available from: https://darwin.v7labs.com/v7-labs/covid-19-chest-x-ray-dataset/overview
