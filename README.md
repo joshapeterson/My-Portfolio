@@ -4,8 +4,8 @@
 
 - [Detecting COVID-19 using Chest X-rays Project](#detecting-covid-19-using-chest-x-rays-project)
 - [Detecting COVID-19 Misinformation on Social Media Project](#detecting-covid-19-misinformation-on-social-media-project)
-- [Shiny Application Project](#shiny-application-project)
 - [Text Analysis and Mining Example](#text-analysis-and-mining-example)
+- [Shiny Application Project](#shiny-application-project)
 - [Undergraduate Student Outcomes Dashboard](#undergraduate-student-outcomes-dashboard)
 - [MBA Class Profile Dashboard](#mba-class-profile-dashboard)
 
@@ -38,6 +38,26 @@ numpy, pandas, tenserflow, keras, matplotlib, seaborn and imquality
 ### Overview
 
 Mauris sagittis sagittis elementum. In facilisis eget metus non accumsan. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce rhoncus mi id justo tempus commodo. Suspendisse posuere ante lectus, nec pulvinar urna maximus nec. Fusce mi lacus, tempor id ex eget, maximus tristique magna. Vestibulum finibus mattis pellentesque. Curabitur posuere fringilla ligula sed blandit. Pellentesque fermentum luctus eros a volutpat. Phasellus nec libero nec metus tincidunt elementum non nec turpis. Maecenas arcu quam, consectetur in finibus eu, porttitor in nunc. Mauris commodo velit eu lorem semper vehicula. Donec sed lacus vitae enim semper blandit.
+
+*[Back to Table of Contents](#table-of-contents)*
+
+---
+
+## [Text Analysis and Mining Example](https://github.com/joshapeterson/My-Portfolio/tree/main/text-mining-and-analysis-example)
+
+### Overview
+
+I was invited to give a talk to the M.S. in Data Science and Business Analytics program's Advanced Business Analytics class to discuss text mining and analysis methodologies. During the talk, an example of how to apply various text mining and analysis methodologies to Twitter data was provided. The code from this talk can be found [here](https://github.com/joshapeterson/My-Portfolio/blob/main/text-mining-and-analysis-example/text-analysis-and-mining-example_code.ipynb).
+
+### Author
+
+Joshua Peterson
+
+### List of Primary Packages Used
+
+pandas, numpy, re, nltk, collections, itertools, sklearn, matplotlib, seaborn, wordcloud and textblob
+
+### 🔗 [Link to Project Code](https://github.com/joshapeterson/My-Portfolio/blob/main/text-mining-and-analysis-example/text-analysis-and-mining-example_code.ipynb)
 
 *[Back to Table of Contents](#table-of-contents)*
 
@@ -80,26 +100,6 @@ shiny, shinydashboard, tidytext, wordcloud, ggplot2 (Developer Version), RColorB
 #### Link to Shiny App: https://japeterson.shinyapps.io/updated-app/
 
 #### Link to Final Report: https://dsba5122-final-project-group13.netlify.com/
-
-*[Back to Table of Contents](#table-of-contents)*
-
----
-
-## [Text Analysis and Mining Example](https://github.com/joshapeterson/My-Portfolio/tree/main/text-mining-and-analysis-example)
-
-### Overview
-
-I was invited to give a talk to the M.S. in Data Science and Business Analytics program's Advanced Business Analytics class to discuss text mining and analysis methodologies. During the talk, an example of how to apply various text mining and analysis methodologies to Twitter data was provided. The code from this talk can be found [here](https://github.com/joshapeterson/My-Portfolio/blob/main/text-mining-and-analysis-example/text-analysis-and-mining-example_code.ipynb).
-
-### Author
-
-Joshua Peterson
-
-### List of Primary Packages Used
-
-pandas, numpy, re, nltk, collections, itertools, sklearn, matplotlib, seaborn, wordcloud and textblob
-
-### 🔗 [Link to Project Code](https://github.com/joshapeterson/My-Portfolio/blob/main/text-mining-and-analysis-example/text-analysis-and-mining-example_code.ipynb)
 
 *[Back to Table of Contents](#table-of-contents)*
 
