@@ -21,9 +21,17 @@ The purpose of this project was to create a deep learning model that accurately 
 
 ![](image-classification-project/images/mask.png)
 
+The masks were then applied to each of the chest x-ray images via a bitwise and operation. The following is an example of a masked chest x-ray image:
+
+![](image-classification-project/images/masked_x-ray.png)
+
+Additionally, image quality of the chest x-rays was assesed via BRISQUE scores. The following is a histogram of the BRISQUE scores of the images in the dataset:
+
+![](image-classification-project/images/hist-of-brisque-scores.png)
+
 ### Data Source
 
-Darwin [Internet]. V7labs.com. [cited 2022 Oct 10]. Available from: https://darwin.v7labs.com/v7-labs/covid-19-chest-x-ray-dataset/overview
+V7 Labs. Available from: https://darwin.v7labs.com/v7-labs/covid-19-chest-x-ray-dataset/overview
 
 ### Authors
 
