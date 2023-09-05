@@ -37,7 +37,7 @@ Multiple deep learning architectures for this image classification task were tes
 class_model_base = keras.applications.ResNet50(weights="imagenet", include_top=False)
 ```
 
-The ResNet50 architecture was fine-tuned for our image classification task. This was accomplished by making the weights in the last 32 layers of the pretrained model trainable. 
+The ResNet50 architecture was fine-tuned for our image classification task. This was accomplished by making the weights in the last 32 layers trainable. 
 
 ```
 class_model_base.trainable = True
@@ -48,7 +48,50 @@ for layer in class_model_base.layers[:-32]: # making the last 32 layers of the R
 print("The number of trainable weights in the pretrained model:", len(class_model_base.trainable_weights))
 ```
 
-The number of trainable weights in the pretrained model: 40 
+The following was the deep learning model developed using the ResNet50 architecture:
+
+```
+data_augmentation = keras.Sequential(
+    [
+        layers.RandomRotation(0.1, fill_mode='constant',fill_value=0),
+        layers.RandomZoom(0.1),
+        layers.RandomTranslation(0.1,0.1,fill_mode='constant',fill_value=0),
+    ]
+)
+
+inputs = keras.Input(shape=(200, 200, 3))
+x = layers.Rescaling(1./255),
+x = data_augmentation(inputs)
+x = keras.applications.resnet50.preprocess_input(x)
+x = class_model_base(x) # using the ResNet pre-trained model as the base for my image classification model
+x = layers.Flatten()(x)
+x = layers.Dense(512, activation=tf.nn.relu)(x)
+x = layers.Dropout(0.2)(x) # Used a dropout rate of 0.2 to regularize the model
+outputs = layers.Dense(nb_classes, activation=tf.nn.softmax)(x)
+model = keras.Model(inputs, outputs)
+
+model.compile(optimizer = 'adam', 
+              loss = 'sparse_categorical_crossentropy', 
+              metrics = ['accuracy'])
+
+callbacks = [
+    keras.callbacks.ModelCheckpoint(
+        filepath="resnet50_im_class_model.keras",
+        save_best_only=True,
+        monitor="val_loss")
+]
+
+history = model.fit(train_images, 
+                    train_labels, 
+                    batch_size=128, 
+                    epochs=40, 
+                    validation_split = 0.2,
+                    callbacks=callbacks)
+```
+
+This model acheived an accuracy of ==86%==. The following is a classification report from the model:
+
+![](image-classification-project/images/classification-matrix.png)
 
 ### Data Source
 
