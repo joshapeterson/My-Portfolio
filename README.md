@@ -52,7 +52,16 @@ Mauris sagittis sagittis elementum. In facilisis eget metus non accumsan. Class 
 The goal of this project was to build a shiny application that could provide a general overview of previous Nobel Prize winners. Creating a tool that could be used to assist institutions with future decisions regarding who to award the Nobel Prize.
 
 First, a general overview of Nobel Prize winners as well as the journals and organizations associated with those winners was provided. 
+
 ![](shiny-application-project/images/shiny-app_overview.png)
+
+Next, an analysis of previous award motivations and paper titles was provided to understand the drivers of previous Nobel Prize awards. 
+
+![](shiny-application-project/images/shiny-app_motivation-and-paper-title.png)
+
+Finally, additional information about Nobel Prize winners was analyized such the number of publications they had, average years of academic experience, and age. 
+
+![](shiny-application-project/images/shiny-app-publication.png)
 
 ### Authors
 
