@@ -49,11 +49,10 @@ Mauris sagittis sagittis elementum. In facilisis eget metus non accumsan. Class 
 
 ### Overview
 
-### Goal of Project
+The goal of this project was to build a shiny application that could provide a general overview of previous Nobel Prize winners. Creating a tool that could be used to assist institutions with future decisions regarding who to award the Nobel Prize.
 
-To provide a general overview of previous Nobel Prize winners. Creating a tool that could be used to assist institutions with future decisions regarding who to award the Nobel Prize.
-
-This is the repository for our group's final project in DSBA 5122. For this project, we built a Shiny application in R to provide an overview of the Nobel Prize winners from previous years. Below is a link to the final Shiny app. The code for the app can be found in the "app.R" file above. 
+First, a general overview of Nobel Prize winners as well as the journals and organizations associated with those winners was provided. 
+![](shiny-application-project/images/shiny-app_overview.png)
 
 ### Authors
 
@@ -82,8 +81,6 @@ shiny, shinydashboard, tidytext, wordcloud, ggplot2 (Developer Version), RColorB
 ### Overview
 
 I was invited to give a talk to the M.S. in Data Science and Business Analytics program's Advanced Business Analytics class to discuss text mining and analysis methodologies. During the talk, an example of how to apply various text mining and analysis methodologies to Twitter data was provided. The code from this talk can be found [here](https://github.com/joshapeterson/My-Portfolio/blob/main/text-mining-and-analysis-example/text-analysis-and-mining-example_code.ipynb).
-
-![](shiny-application-project/images/shiny-app_overview.png)
 
 ### Author
 
