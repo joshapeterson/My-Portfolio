@@ -25,7 +25,7 @@ The masks were then applied to each of the chest x-ray images via a bitwise and 
 
 ![](image-classification-project/images/masked_x-ray.png)
 
-Additionally, image quality of the chest x-rays was assesed via BRISQUE scores. The following is a histogram of the BRISQUE scores of the images in the dataset:
+Additionally, image quality of the chest x-rays was assesed via BRISQUE scores.
 
 ![](image-classification-project/images/hist-of-brisque-scores.png)
 
