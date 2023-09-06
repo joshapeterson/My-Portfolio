@@ -117,19 +117,23 @@ numpy, pandas, tenserflow, keras, matplotlib, seaborn and imquality
 
 ### Overview
 
-### Data Source
+### Data Sources
 
-V7 Labs. Available from: https://darwin.v7labs.com/v7-labs/covid-19-chest-x-ray-dataset/overview
+Cui, L., & Lee, D. (2020). CoAID: COVID-19 Healthcare Misinformation Dataset. Retrieved from http://arxiv.org/abs/2006.00885 
 
-### Authors
+Memon, S. A., & Carley, K. M. (2020). Characterizing COVID-19 misinformation communities using a novel Twitter dataset. Retrieved from http://arxiv.org/abs/2008.00791  
 
-* Joshua Peterson
-* Michael Gray
-* Mangala Desai
+Shahi, G. K., Dirkson, A., & Majchrzak, T. A. (2021). An exploratory study of COVID-19 misinformation on Twitter. Online Social Networks and Media, 22(100104), 100104. doi:10.1016/j.osnem.2020.100104 
+
+*Note: These are all datasets containing labeled tweets that I hydrated using the tweet IDs* 
+
+### Author
+
+Joshua Peterson
 
 ### List of Primary Packages Used
 
-numpy, pandas, tenserflow, keras, matplotlib, seaborn and imquality
+numpy, pandas, seaborn, matplotlib, nltk, sklearn, xgboost, os, pickle, collections
 
 ### 🔗 [Link to Project Code](https://github.com/joshapeterson/My-Portfolio/blob/main/misinformation-detection-project/misinformation-detection-project_code.ipynb)
 
