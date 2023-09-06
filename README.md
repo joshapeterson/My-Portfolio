@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-- [Detecting COVID-19 using Chest X-rays Project](#detecting-covid-19-using-chest-x-rays-project)
-- [Detecting COVID-19 Misinformation on Social Media Project](#detecting-covid-19-misinformation-on-social-media-project)
+- [Detecting COVID-19 using Chest X-rays](#detecting-covid-19-using-chest-x-rays)
+- [Detecting COVID-19 Misinformation on Social Media](#detecting-covid-19-misinformation-on-social-media)
 - [Text Analysis and Mining Example](#text-analysis-and-mining-example)
 - [Shiny Application Project](#shiny-application-project)
 - [Undergraduate Student Outcomes Dashboard](#undergraduate-student-outcomes-dashboard)
@@ -11,13 +11,13 @@
 
 ---
 
-## [Detecting COVID-19 using Chest X-rays Project](https://github.com/joshapeterson/My-Portfolio/tree/main/image-classification-project)
+## [Detecting COVID-19 using Chest X-rays](https://github.com/joshapeterson/My-Portfolio/tree/main/image-classification-project)
 
 ### Overview
 
 **Goal of Project**: Develop a deep learning model to accurately detect COVID-19 using chest x-ray images
 
-The purpose of this project was to create a deep learning model that accurately detects COVID-19 and other types of pneumonia using chest x-rays. Many of the existing models are trained on chest x-ray images of lungs and surrounding areas of the chest. In this project, we train a model on masked chest x-ray images to remove unwanted artifacts of the image so the model can focus on the vital parts of the image. The masks were created using x and y coordinates provided for each image in the dataset. The following is an example of masks created for the chest x-ray images:
+The purpose of this project was to create a deep learning model that accurately detects COVID-19 and other types of pneumonia using chest x-rays. Many of the existing models are trained on chest x-ray images of lungs and surrounding areas of the chest. In this project, we train a model on masked chest x-ray images to remove unwanted artifacts of the image so the model can focus on the vital parts of the image. The masks were created using x and y coordinates provided for each image in the dataset. The following is an example of the masks created for the chest x-ray images:
 
 ![](image-classification-project/images/mask.png)
 
@@ -113,7 +113,7 @@ numpy, pandas, tenserflow, keras, matplotlib, seaborn and imquality
 
 ---
 
-## [Detecting COVID-19 Misinformation on Social Media Project](https://github.com/joshapeterson/My-Portfolio/tree/main/misinformation-detection-project)
+## [Detecting COVID-19 Misinformation on Social Media](https://github.com/joshapeterson/My-Portfolio/tree/main/misinformation-detection-project)
 
 ### Overview
 
