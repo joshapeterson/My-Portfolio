@@ -19,7 +19,7 @@
 
 The purpose of this project was to create a deep learning model that accurately detects COVID-19 and other types of pneumonia using chest x-rays. Many of the existing models are trained on chest x-ray images of lungs and surrounding areas of the chest. In this project, we train a model on masked chest x-ray images to remove unwanted artifacts of the image so the model can focus on the vital parts of the image. 
 
-**Image Preparation and Selection**
+<u>**Image Preparation and Selection**</u>
 
 The image masks were created using x and y coordinates provided for each image in the dataset. The following is an example of the masks created for the chest x-ray images:
 
