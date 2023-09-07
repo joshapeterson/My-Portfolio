@@ -101,6 +101,8 @@ This model acheived an accuracy of 86%. The following is a classification report
 
 ![](image-classification-project/images/classification-matrix.png)
 
+*Note: 0 = Bacterial Pneumonia, 1 = Healthy, 2 = Viral Pneumonia, 3 = COVID-19*
+
 ### Data Source
 
 V7 Labs. Available from: https://darwin.v7labs.com/v7-labs/covid-19-chest-x-ray-dataset/overview
