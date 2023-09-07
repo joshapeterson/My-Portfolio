@@ -1,15 +1,15 @@
 # My Portfolio
 
 ## Table of Contents
-- Python Projects
-  - [Detecting COVID-19 using Chest X-rays](#detecting-covid-19-using-chest-x-rays)
-  - [Detecting COVID-19 Misinformation on Social Media](#detecting-covid-19-misinformation-on-social-media)
-  - [Text Analysis and Mining Example](#text-analysis-and-mining-example)
-- R Projects
-  - [Shiny Application Project](#shiny-application-project)
-- Tableau Projects
-  - [Undergraduate Student Outcomes Dashboard](#undergraduate-student-outcomes-dashboard)
-  - [MBA Class Profile Dashboard](#mba-class-profile-dashboard)
+Python Projects
+- [Detecting COVID-19 using Chest X-rays](#detecting-covid-19-using-chest-x-rays)
+- [Detecting COVID-19 Misinformation on Social Media](#detecting-covid-19-misinformation-on-social-media)
+- [Text Analysis and Mining Example](#text-analysis-and-mining-example)
+R Projects
+- [Shiny Application Project](#shiny-application-project)
+Tableau Projects
+- [Undergraduate Student Outcomes Dashboard](#undergraduate-student-outcomes-dashboard)
+- [MBA Class Profile Dashboard](#mba-class-profile-dashboard)
 
 ---
 
