@@ -1,19 +1,16 @@
 # My Portfolio
 
 ## Table of Contents
-Python Projects
-- [Detecting COVID-19 using Chest X-rays](#detecting-covid-19-using-chest-x-rays)
-- [Detecting COVID-19 Misinformation on Social Media](#detecting-covid-19-misinformation-on-social-media)
-- [Text Analysis and Mining Example](#text-analysis-and-mining-example)
 
-R Projects
-
-- [Shiny Application Project](#shiny-application-project)
-
-Tableau Projects
-
-- [Undergraduate Student Outcomes Dashboard](#undergraduate-student-outcomes-dashboard)
-- [MBA Class Profile Dashboard](#mba-class-profile-dashboard)
+- Python Projects
+  - [Detecting COVID-19 using Chest X-rays](#detecting-covid-19-using-chest-x-rays)
+  - [Detecting COVID-19 Misinformation on Social Media](#detecting-covid-19-misinformation-on-social-media)
+  - [Text Analysis and Mining Example](#text-analysis-and-mining-example)
+- R Projects
+  - [Shiny Application Project](#shiny-application-project)
+- Tableau Projects
+  - [Undergraduate Student Outcomes Dashboard](#undergraduate-student-outcomes-dashboard)
+  - [MBA Class Profile Dashboard](#mba-class-profile-dashboard)
 
 ---
 
@@ -108,6 +105,14 @@ This model acheived an accuracy of 86%. The following is a classification report
 ![](image-classification-project/images/classification-matrix.png)
 
 *Note: 0 = Bacterial Pneumonia, 1 = Healthy, 2 = Viral Pneumonia, 3 = COVID-19*
+
+***Future Work***
+
+When conducting an error analysis of the developed model, it was seen that the most confusion in the model arose when trying to distinguish between viral pneumonia and bacterial pneumonia. 
+
+![](image-classification-project/images/confusion-matrix.png)
+
+Future work would involve exploring ways to improve the performance of this model on these classes. 
 
 ### Data Source
 
