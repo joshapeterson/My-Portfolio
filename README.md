@@ -108,7 +108,7 @@ This model acheived an accuracy of 86%. The following is a classification report
 
 ***Future Work***
 
-When conducting an error analysis of the developed model, it was seen that the most confusion in the model arose when trying to distinguish between viral pneumonia and bacterial pneumonia. 
+When conducting an error analysis of the developed model, it was seen that the most confusion in the model arose when trying to distinguish between viral pneumonia and bacterial pneumonia. This is represented in the confusion matrix below and the lower F1-score for those classes in the classification report.  
 
 ![](image-classification-project/images/confusion-matrix.png)
 
