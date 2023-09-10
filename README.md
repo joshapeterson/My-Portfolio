@@ -230,10 +230,6 @@ shiny, shinydashboard, tidytext, wordcloud, ggplot2 (Developer Version), RColorB
 
 ### 🔗 [Link to Project Code](https://github.com/joshapeterson/My-Portfolio/blob/main/shiny-application-project/app.R)
 
-### Additional Resources
-
-#### Link to Shiny App: https://japeterson.shinyapps.io/updated-app/
-
 *[Back to Table of Contents](#table-of-contents)*
 
 ---
