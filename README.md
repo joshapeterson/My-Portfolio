@@ -212,7 +212,7 @@ Finally, additional information about Nobel Prize winners was analyized such the
 
 All of this information can help us better understand previous Nobel Prize award winners.
 
-### [Link to Shiny App](https://japeterson.shinyapps.io/updated-app/)
+### 🔗 [Link to Shiny App](https://japeterson.shinyapps.io/updated-app/)
 
 ### Authors
 
