@@ -212,6 +212,8 @@ Finally, additional information about Nobel Prize winners was analyized such the
 
 All of this information can help us better understand previous Nobel Prize award winners.
 
+### [Link to Shiny App](https://japeterson.shinyapps.io/updated-app/)
+
 ### Authors
 
 * Joshua Peterson
@@ -231,8 +233,6 @@ shiny, shinydashboard, tidytext, wordcloud, ggplot2 (Developer Version), RColorB
 ### Additional Resources
 
 #### Link to Shiny App: https://japeterson.shinyapps.io/updated-app/
-
-#### Link to Final Report: https://dsba5122-final-project-group13.netlify.com/
 
 *[Back to Table of Contents](#table-of-contents)*
 
