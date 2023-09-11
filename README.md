@@ -34,7 +34,7 @@ The masks were then applied to each of the chest x-ray images via a bitwise and 
 
 Additionally, image quality of the chest x-rays was assesed via BRISQUE scores. The following is the distribution of those scores:
 
-<img src="image-classification-project/images/hist.png" width="500"/>
+<img src="image-classification-project/images/hist.png" width="400"/>
 
 Images with a BRISQUE score higher than Q3 of the interquartile range were removed from the dataset to minimize the effect poor quality images would have on the performance of the deep learning image classification model. 
 
@@ -100,7 +100,7 @@ history = model.fit(train_images,
 
 ***Model Results***
 
-This model acheived an accuracy of 86%. The following is a classification report from the model:
+This model acheived an accuracy of 85%. The following is a classification report from the model:
 
 ![](image-classification-project/images/classification-matrix.png)
 
