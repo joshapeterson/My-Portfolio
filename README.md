@@ -102,7 +102,7 @@ history = model.fit(train_images,
 
 This model acheived an accuracy of 85%. The following is a classification report from the model:
 
-![](image-classification-project/images/classification-matrix.png)
+<img src="image-classification-project/images/classification-matrix.png" width="400"/>
 
 *Note: 0 = Bacterial Pneumonia, 1 = Healthy, 2 = Viral Pneumonia, 3 = COVID-19*
 
@@ -110,7 +110,7 @@ This model acheived an accuracy of 85%. The following is a classification report
 
 When conducting an error analysis of the developed model, it was seen that the most confusion in the model arose when trying to distinguish between viral pneumonia and bacterial pneumonia. This is represented in the confusion matrix below and the lower F1-score for those classes in the classification report.  
 
-![](image-classification-project/images/confusion-matrix.png)
+<img src="image-classification-project/images/confusion-matrix.png" width="600"/>
 
 Future work would involve exploring ways to improve the performance of this model on these classes. 
 
