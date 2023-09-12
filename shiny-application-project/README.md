@@ -1,39 +1,39 @@
 # Shiny Application Project
 
-## Nobel Prize Winners
+## Overview
 
-This is the repository for our group's final project in DSBA 5122. For this project, we built a Shiny application in R to provide an overview of the Nobel Prize winners from previous years. Below is a link to the final Shiny app. The code for the app can be found in the "app.R" file above. 
+The goal of this project was to build a shiny application that could provide a general overview of previous Nobel Prize winners. Creating a tool that could be used to assist institutions with future decisions regarding who to award the Nobel Prize.
+
+First, a general overview of Nobel Prize winners as well as the journals and organizations associated with those winners was provided. 
+
+![](images/shiny-app_overview.png)
+
+Next, an analysis of previous award motivations and titles of winning papers was provided to understand the drivers of previous Nobel Prize awards. 
+
+![](images/shiny-app_motivation-and-paper-title.png)
+
+Finally, additional information about Nobel Prize winners was analyized such the number of publications they had, average years of academic experience, and age. 
+
+![](images/shiny-app-publication.png)
+
+All of this information can help us better understand previous Nobel Prize award winners.
+
+## 🔗 [Link to Shiny App](https://japeterson.shinyapps.io/updated-app/)
 
 ## Authors
 
+* Joshua Peterson
 * Dipin Kasana
 * Kelly O'Shields
-* Josh Peterson
 
-## Goal of Project
+## Data Source
 
-To provide a general overview of previous Nobel Prize winners. Creating a tool that could be used to assist institutions with future decisions regarding who to award the Nobel Prize.
+Kaggle. Available from: https://www.kaggle.com/datasets/nobelfoundation/nobel-laureates
 
-## Project Related Information
+## List of Primary Packages Used
 
-### List of Packages
+shiny, shinydashboard, tidytext, wordcloud, ggplot2 (Developer Version), RColorBrewer, tidyverse, validate, hrbrthemes, waiter and DT
 
-* shiny
-* shinydashboard
-* tidytext
-* wordcloud
-* ggplot2 (Developer Version)
-* RColorBrewer
-* tidyverse
-* validate
-* hrbrthemes
-* waiter
-* DT
+## 🔗 [Link to Project Code](https://github.com/joshapeterson/My-Portfolio/blob/main/shiny-application-project/app.R)
 
-### Link to Shiny App
-
-https://japeterson.shinyapps.io/updated-app/
-
-### Link to Final Report
-
-https://dsba5122-final-project-group13.netlify.com/
+*[Back to Portfolio](https://github.com/joshapeterson/My-Portfolio)*
