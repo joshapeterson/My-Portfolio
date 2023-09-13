@@ -128,7 +128,7 @@ V7 Labs. Available from: https://darwin.v7labs.com/v7-labs/covid-19-chest-x-ray-
 
 numpy, pandas, tenserflow, keras, matplotlib, seaborn and imquality
 
-### 🔗 [Link to Project Code](https://github.com/joshapeterson/My-Portfolio/blob/main/image-classification-project/image-classification-project_code.ipynb)
+### 🔗 [Link to Project Code](https://github.com/joshapeterson/My-Portfolio/blob/main/image-classification-project/image_classification_project_code.ipynb)
 
 *[Back to Table of Contents](#table-of-contents)*
 
