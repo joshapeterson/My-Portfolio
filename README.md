@@ -158,7 +158,7 @@ Joshua Peterson
 
 numpy, pandas, seaborn, matplotlib, nltk, sklearn, xgboost, os, pickle, collections
 
-### 🔗 [Link to Project Code](https://github.com/joshapeterson/My-Portfolio/blob/main/misinformation-detection-project/misinformation-detection-project_code.ipynb)
+### 🔗 [Link to Project Code](https://github.com/joshapeterson/My-Portfolio/blob/main/misinformation-detection-project/misinformation_detection_project_code.ipynb)
 
 *[Back to Table of Contents](#table-of-contents)*
 
