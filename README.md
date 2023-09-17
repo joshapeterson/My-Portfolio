@@ -138,7 +138,23 @@ numpy, pandas, tenserflow, keras, matplotlib, seaborn and imquality
 
 ### Overview
 
-🚧 **Under Construction** 🚧
+**Goal of Project**: Develop a machine learning model to accurately detect COVID-19 misinformation on X (formerly Twitter). 
+
+The purpose of this project was to create a machine learning model that accurately detects COVID-19 misinformation on social media. The final developed deep learning model acheived an accuracy of 95%. This model could be deployed on a platform such as Twitter to detect COVID-19 related misinformation posted on the platform. 
+
+*Model Results*
+
+This model acheived an accuracy of 95%. The following is a classification report from the model:
+
+<img src="misinformation-detection-project/images/results.png" width="400"/>
+
+A confusion matrix shows that the developed model is able to quite accurately detect if the content of a tweet contains misinformation or accurate information. 
+
+<img src="misinformation-detection-project/images/confusion_matrix.png" width="500"/>
+
+*Future Work*
+
+The developed model was saved with the goal of deploying the model in the future. 
 
 ### Data Sources
 
