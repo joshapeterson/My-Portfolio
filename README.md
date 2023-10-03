@@ -7,7 +7,7 @@
   - [Detecting COVID-19 Misinformation on Social Media](#detecting-covid-19-misinformation-on-social-media)
   - [Text Analysis and Mining Example](#text-analysis-and-mining-example)
 - R Projects
-  - [Shiny Application Project](#shiny-application-project)
+  - [The History of Nobel Prize Winners](#the-history-of-nobel-prize-winners)
 - Tableau Projects
   - [Undergraduate Student Outcomes Dashboard](#undergraduate-student-outcomes-dashboard)
   - [MBA Class Profile Dashboard](#mba-class-profile-dashboard)
@@ -210,7 +210,7 @@ pandas, numpy, re, nltk, collections, itertools, sklearn, matplotlib, seaborn, w
 
 ---
 
-## [Shiny Application Project](https://github.com/joshapeterson/My-Portfolio/tree/main/shiny-application-project)
+## [The History of Nobel Prize Winners](https://github.com/joshapeterson/My-Portfolio/tree/main/shiny-application-project)
 
 ### Overview
 
