@@ -34,7 +34,7 @@ Shahi, G. K., Dirkson, A., & Majchrzak, T. A. (2021). An exploratory study of CO
 
 Joshua Peterson
 
-## List of Primary Packages Used
+## List of Primary Dependencies
 
 numpy, pandas, seaborn, matplotlib, nltk, sklearn, xgboost, os, pickle, collections
 
