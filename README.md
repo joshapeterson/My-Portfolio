@@ -124,7 +124,7 @@ V7 Labs. Available from: https://darwin.v7labs.com/v7-labs/covid-19-chest-x-ray-
 * Michael Gray
 * Mangala Desai
 
-### List of Primary Packages Used
+### List of Primary Dependencies 
 
 numpy, pandas, tenserflow, keras, matplotlib, seaborn and imquality
 
@@ -170,7 +170,7 @@ Shahi, G. K., Dirkson, A., & Majchrzak, T. A. (2021). An exploratory study of CO
 
 Joshua Peterson
 
-### List of Primary Packages Used
+### List of Primary Dependencies
 
 numpy, pandas, seaborn, matplotlib, nltk, sklearn, xgboost, os, pickle, collections
 
@@ -200,7 +200,7 @@ I was invited to give a talk to the M.S. in Data Science and Business Analytics 
 
 Joshua Peterson
 
-### List of Primary Packages Used
+### List of Primary Dependencies
 
 pandas, numpy, re, nltk, collections, itertools, sklearn, matplotlib, seaborn, wordcloud and textblob
 
@@ -242,7 +242,7 @@ All of this information can help us better understand previous Nobel Prize award
 
 Kaggle. Available from: https://www.kaggle.com/datasets/nobelfoundation/nobel-laureates
 
-### List of Primary Packages Used
+### List of Primary Dependencies
 
 shiny, shinydashboard, tidytext, wordcloud, ggplot2 (Developer Version), RColorBrewer, tidyverse, validate, hrbrthemes, waiter and DT
 
