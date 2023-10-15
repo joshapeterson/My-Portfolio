@@ -8,7 +8,7 @@ I was invited to give a talk to the M.S. in Data Science and Business Analytics 
 
 Joshua Peterson
 
-## List of Primary Packages Used
+## List of Primary Dependencies
 
 pandas, numpy, re, nltk, collections, itertools, sklearn, matplotlib, seaborn, wordcloud and textblob
 
