@@ -108,7 +108,7 @@ V7 Labs. Available from: https://darwin.v7labs.com/v7-labs/covid-19-chest-x-ray-
 * Michael Gray
 * Mangala Desai
 
-## List of Primary Packages Used
+## List of Primary Dependencies
 
 numpy, pandas, tenserflow, keras, matplotlib, seaborn and imquality
 
