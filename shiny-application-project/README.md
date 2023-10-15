@@ -30,7 +30,7 @@ All of this information can help us better understand previous Nobel Prize award
 
 Kaggle. Available from: https://www.kaggle.com/datasets/nobelfoundation/nobel-laureates
 
-## List of Primary Packages Used
+## List of Primary Dependencies
 
 shiny, shinydashboard, tidytext, wordcloud, ggplot2 (Developer Version), RColorBrewer, tidyverse, validate, hrbrthemes, waiter and DT
 
