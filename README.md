@@ -8,9 +8,6 @@
   - [Text Analysis and Mining Example](#text-analysis-and-mining-example)
 - R Projects
   - [The History of Nobel Prize Winners](#the-history-of-nobel-prize-winners)
-- Tableau Projects
-  - [Undergraduate Student Outcomes Dashboard](#undergraduate-student-outcomes-dashboard)
-  - [MBA Class Profile Dashboard](#mba-class-profile-dashboard)
 
 ---
 
@@ -247,26 +244,6 @@ Kaggle. Available from: https://www.kaggle.com/datasets/nobelfoundation/nobel-la
 shiny, shinydashboard, tidytext, wordcloud, ggplot2 (Developer Version), RColorBrewer, tidyverse, validate, hrbrthemes, waiter and DT
 
 ### 🔗 [Link to Project Code](https://github.com/joshapeterson/My-Portfolio/blob/main/shiny-application-project/app.R)
-
-*[Back to Table of Contents](#table-of-contents)*
-
----
-
-## Undergraduate Student Outcomes Dashboard
-
-This is a dashboard that was created for the Belk College of Business to display outcomes data from undergraduate level graduates of the college. This dashboard was created using data from UNC Charlotte’s [First Destination Survey](https://firstdestination.charlotte.edu/).
-
-### 🔗 [Link to Dashboard](https://belkcollege.charlotte.edu/about-us/facts-and-rankings/undergraduate-student-outcomes/undergraduate-student-outcomes-2022)
-
-*[Back to Table of Contents](#table-of-contents)*
-
----
-
-## MBA Class Profile Dashboard
-
-This is a student profile built for UNC Charlotte’s MBA program to provide admissions info to the public concerning the program’s Fall entering classes.
-
-### 🔗 [Link to Dashboard](https://mba.charlotte.edu/admissions/class-profile)
 
 *[Back to Table of Contents](#table-of-contents)*
 
