@@ -184,3 +184,4 @@ The following are program profiles created for the Belk College of Business at U
 - [M.S. in Management Program Profile](https://management.charlotte.edu/admissions/program-profile)
 - [M.S. in Real Estate Program Profile](https://realestate.charlotte.edu/admissions/student-profile)
 
+*[Back to Table of Contents](#table-of-contents)*
