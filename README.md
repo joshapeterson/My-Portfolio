@@ -175,7 +175,7 @@ shiny, shinydashboard, tidytext, wordcloud, ggplot2 (Developer Version), RColorB
 
 ## Graduate Program Profiles
 
-The following are program profiles created for Belk College of Business at UNC Charlotte graduate programs:
+The following are program profiles created for the Belk College of Business at UNC Charlotte graduate programs:
 
 - [MACC Program Profile](https://macc.charlotte.edu/prospective-students/program-profile)
 - [MBA Class Profile](https://mba.charlotte.edu/admissions/class-profile)
