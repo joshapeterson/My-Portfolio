@@ -61,7 +61,7 @@ numpy, pandas, tenserflow, keras, matplotlib, seaborn and imquality
 
 ### Overview
 
-**Abstract**
+***Abstract***
 
 Throughout the COVID-19 pandemic, social media platforms were and continue to be a prevalent method 
 for spreading misinformation related to the pandemic. The need for misinformation detection models and 
@@ -108,6 +108,8 @@ Joshua Peterson
 ### List of Primary Dependencies
 
 numpy, pandas, seaborn, matplotlib, nltk, sklearn, xgboost, os, pickle, collections
+
+### 🔗 [Link to Research Paper](https://github.com/joshapeterson/My-Portfolio/blob/main/Joshua-Peterson_Research-Paper.pdf)
 
 ### 🔗 [Link to Project Code](https://github.com/joshapeterson/My-Portfolio/blob/main/misinformation-detection-project/misinformation_detection_project_code.ipynb)
 
