@@ -40,8 +40,6 @@ Memon, S. A., & Carley, K. M. (2020). Characterizing COVID-19 misinformation com
 
 Shahi, G. K., Dirkson, A., & Majchrzak, T. A. (2021). An exploratory study of COVID-19 misinformation on Twitter. Online Social Networks and Media, 22(100104), 100104. doi:10.1016/j.osnem.2020.100104 
 
-*Note: These are all datasets containing labeled tweets that I hydrated using the tweet IDs* 
-
 ## Author
 
 Joshua Peterson
