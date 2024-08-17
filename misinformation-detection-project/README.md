@@ -22,11 +22,11 @@ defined intent labels to social media posts.
 
 This model acheived an accuracy of 95%. The following is a classification report from the model:
 
-<img src="misinformation-detection-project/images/results.png" width="400"/>
+<img src="images/results.png" width="400"/>
 
 A confusion matrix shows that the developed model is able to quite accurately detect if the content of a tweet contains misinformation or accurate information. 
 
-<img src="misinformation-detection-project/images/confusion_matrix.png" width="500"/>
+<img src="images/confusion_matrix.png" width="500"/>
 
 ***Future Work***
 
