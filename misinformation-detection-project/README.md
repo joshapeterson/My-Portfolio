@@ -2,19 +2,31 @@
 
 ## Overview
 
-**Goal of Project**: Develop a machine learning model to accurately detect COVID-19 misinformation on X (formerly Twitter). 
+***Abstract***
 
-The purpose of this project was to create a machine learning model that accurately detects COVID-19 misinformation on social media. The final developed deep learning model acheived an accuracy of 95%. This model could be deployed on a platform such as Twitter to detect COVID-19 related misinformation posted on the platform. 
+Throughout the COVID-19 pandemic, social media platforms were and continue to be a prevalent method 
+for spreading misinformation related to the pandemic. The need for misinformation detection models and 
+methods was and is necessary to combat this misinformation spread. The purpose of this research is to 
+develop models that are able to detect misinformation on social media platforms. In addition to detecting 
+misinformation, we also explore methods for determining the intent of that misinformation so the 
+maliciousness and severity of the detected misinformation can be better understood. This natural language 
+processing task will employ both machine learning and deep learning based models and methods as well as 
+exploring the use of zero-shot classification methods to determine intentionality. Through this research, 
+high performing models for detecting COVID-19 misinformation were identified to be a random forest 
+model and a transformer based neural network model. The random forest model obtained a test accuracy of 
+94.9% and the transformer based neural network obtained a test accuracy of 95%. A recommended method 
+for determining the intent of misinformation is to utilize a zero-shot classification method to assign pre
+defined intent labels to social media posts. 
 
 ***Model Results***
 
 This model acheived an accuracy of 95%. The following is a classification report from the model:
 
-<img src="images/results.png" width="400"/>
+<img src="misinformation-detection-project/images/results.png" width="400"/>
 
 A confusion matrix shows that the developed model is able to quite accurately detect if the content of a tweet contains misinformation or accurate information. 
 
-<img src="images/confusion_matrix.png" width="500"/>
+<img src="misinformation-detection-project/images/confusion_matrix.png" width="500"/>
 
 ***Future Work***
 
@@ -37,6 +49,8 @@ Joshua Peterson
 ## List of Primary Dependencies
 
 numpy, pandas, seaborn, matplotlib, nltk, sklearn, xgboost, os, pickle, collections
+
+## 🔗 [Link to Research Paper](https://github.com/joshapeterson/My-Portfolio/blob/main/Joshua-Peterson_Research-Paper.pdf)
 
 ## 🔗 [Link to Project Code](https://github.com/joshapeterson/My-Portfolio/blob/main/misinformation-detection-project/misinformation_detection_project_code.ipynb)
 
