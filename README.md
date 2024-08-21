@@ -149,7 +149,7 @@ pandas, numpy, re, nltk, collections, itertools, sklearn, matplotlib, seaborn, w
 
 ### Overview
 
-The goal of this project was to build a shiny application that could provide a general overview of previous Nobel Prize winners. Creating a tool that could be used to assist institutions with future decisions regarding who to award the Nobel Prize.
+The goal of this project was to build a shiny application that could provide a general overview of previous Nobel Prize winners.
 
 First, a general overview of Nobel Prize winners as well as the journals and organizations associated with those winners was provided. 
 
