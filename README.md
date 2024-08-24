@@ -145,7 +145,7 @@ The following are program profiles created for the Belk College of Business at U
 
 ---
 
-## [Detecting and Determining the Intent of COVID-19 Misinformation on Social Media](https://github.com/joshapeterson/My-Portfolio/tree/main/misinformation-detection-project)
+## Detecting and Determining the Intent of COVID-19 Misinformation on Social Media
 
 ### Overview
 
@@ -165,6 +165,6 @@ model and a transformer based neural network model. The random forest model obta
 for determining the intent of misinformation is to utilize a zero-shot classification method to assign pre
 defined intent labels to social media posts. 
 
-### 🔗 [Link to Research Paper](https://github.com/joshapeterson/My-Portfolio/blob/main/misinformation-detection-project/Joshua-Peterson_Research-Paper.pdf)
+### 🔗 [Link to Research Paper](https://github.com/joshapeterson/My-Portfolio/blob/main/Joshua-Peterson_Research-Paper.pdf)
 
 *[Back to Table of Contents](#table-of-contents)*
