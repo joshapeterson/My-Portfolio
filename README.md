@@ -128,6 +128,8 @@ shiny, shinydashboard, tidytext, wordcloud, ggplot2 (Developer Version), RColorB
 
 *[Back to Table of Contents](#table-of-contents)*
 
+---
+
 ## Graduate Program Profiles
 
 The following are program profiles created for the Belk College of Business at UNC Charlotte graduate programs:
