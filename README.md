@@ -10,7 +10,7 @@
 - Tableau Projects
   - [Graduate Program Profiles for the Belk College of Business at UNC Charlotte](#graduate-program-profiles)
 - Research Papers 
-  - [Detecting and Determining the Intent of COVID-19 Misinformation on Social Media](#detecting-and-determining-the-intent-of-covid-19-misinformation-on-social-media)
+  - [Detecting and Determining the Intentionality of COVID-19 Misinformation on Social Media](#detecting-and-determining-the-intentionality-of-covid-19-misinformation-on-social-media)
 
 ---
 
@@ -145,7 +145,7 @@ The following are program profiles created for the Belk College of Business at U
 
 ---
 
-## Detecting and Determining the Intent of COVID-19 Misinformation on Social Media
+## Detecting and Determining the Intentionality of COVID-19 Misinformation on Social Media
 
 ### Abstract
 
