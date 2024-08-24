@@ -58,7 +58,7 @@ numpy, pandas, tenserflow, keras, matplotlib, seaborn and imquality
 
 ---
 
-## [Text Analysis and Mining Example](https://github.com/joshapeterson/My-Portfolio/tree/main/text-mining-and-analysis-example)
+## [Text Mining and Analysis Example](https://github.com/joshapeterson/My-Portfolio/tree/main/text-mining-and-analysis-example)
 
 ### Overview
 
