@@ -147,9 +147,7 @@ The following are program profiles created for the Belk College of Business at U
 
 ## Detecting and Determining the Intent of COVID-19 Misinformation on Social Media
 
-### Overview
-
-***Abstract***
+###Abstract
 
 Throughout the COVID-19 pandemic, social media platforms were and continue to be a prevalent method 
 for spreading misinformation related to the pandemic. The need for misinformation detection models and 
