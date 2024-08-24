@@ -153,7 +153,7 @@ Throughout the COVID-19 pandemic, social media platforms were and continue to be
 for spreading misinformation related to the pandemic. The need for misinformation detection models and 
 methods was and is necessary to combat this misinformation spread. The purpose of this research is to 
 develop models that are able to detect misinformation on social media platforms. In addition to detecting 
-misinformation, we also explore methods for determining the intent of that misinformation so the 
+misinformation, methods for determining the intent of that misinformation are explored so the 
 maliciousness and severity of the detected misinformation can be better understood. This natural language 
 processing task will employ both machine learning and deep learning based models and methods as well as 
 exploring the use of zero-shot classification methods to determine intentionality. Through this research, 
