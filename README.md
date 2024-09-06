@@ -7,8 +7,6 @@
   - [Text Mining and Analysis Example](#text-mining-and-analysis-example)
 - R Projects
   - [The History of Nobel Prize Winners](#the-history-of-nobel-prize-winners)
-- Tableau Projects
-  - [Graduate Program Profiles for the Belk College of Business at UNC Charlotte](#graduate-program-profiles)
 - Research Papers 
   - [Detecting and Determining the Intentionality of COVID-19 Misinformation on Social Media](#detecting-and-determining-the-intentionality-of-covid-19-misinformation-on-social-media)
 
@@ -125,21 +123,6 @@ Kaggle. Available from: https://www.kaggle.com/datasets/nobelfoundation/nobel-la
 shiny, shinydashboard, tidytext, wordcloud, ggplot2 (Developer Version), RColorBrewer, tidyverse, validate, hrbrthemes, waiter and DT
 
 ### 🔗 [Link to Project Code](https://github.com/joshapeterson/My-Portfolio/blob/main/shiny-application-project/app.R)
-
-*[Back to Table of Contents](#table-of-contents)*
-
----
-
-## Graduate Program Profiles
-
-The following are program profiles created for the Belk College of Business at UNC Charlotte graduate programs:
-
-- [MACC Program Profile](https://macc.charlotte.edu/prospective-students/program-profile)
-- [MBA Class Profile](https://mba.charlotte.edu/admissions/class-profile)
-- [M.S. in Economics Program Profile](https://msecon.charlotte.edu/prospective-students/program-profile)
-- [M.S. in Mathematical Finance Program Profile](https://mathfinance.charlotte.edu/prospective-students/program-profile)
-- [M.S. in Management Program Profile](https://management.charlotte.edu/admissions/program-profile)
-- [M.S. in Real Estate Program Profile](https://realestate.charlotte.edu/admissions/student-profile)
 
 *[Back to Table of Contents](#table-of-contents)*
 
